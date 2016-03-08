@@ -22,7 +22,7 @@ ___Built on top of [DOMPurify](https://github.com/cure53/DOMPurify).___
 ###### Leakproof against [HTTPLeaks](https://github.com/cure53/HTTPLeaks):
 <a href="https://raw.githubusercontent.com/0xsobky/AnonTab/master/screenshots/network_log.png" target="blank"><img width="50%" src="https://raw.githubusercontent.com/0xsobky/AnonTab/master/screenshots/nl_thumb.png" alt="Leakproof against HTTPLeaks"></img></a>
 
-###### And [IPLeaks](https://ipleak.net/):
+###### And also [IPLeak](https://ipleak.net/):
 <a href="https://raw.githubusercontent.com/0xsobky/AnonTab/master/screenshots/ipleaks.png" target="blank"><img width=50% src="https://raw.githubusercontent.com/0xsobky/AnonTab/master/screenshots/ipl_thumb.png" alt="Leakproof against IPLeaks"></img></a>
 
 ## Is it secure?
