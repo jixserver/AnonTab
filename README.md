@@ -29,4 +29,4 @@ ___Built on top of [DOMPurify](https://github.com/cure53/DOMPurify).___
 Yes, unless you can bypass both of DOMPurify and the restricted content security policy in place (plus a few more little restrictions).
 
 ## Credits:
-* [@0xsobky](https://twitter.com/0xsobky)
+* [@0xSobky](https://twitter.com/0xSobky)
