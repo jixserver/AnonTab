@@ -28,5 +28,8 @@ ___Built on top of [DOMPurify](https://github.com/cure53/DOMPurify).___
 ## Is it secure?
 **Yes**, unless you can bypass both of DOMPurify and the restricted content security policy in place (plus a few more little restrictions).
 
+## What do people say about it?
+Check the [reviews](https://addons.mozilla.org/en-US/firefox/addon/anontab/reviews/).
+
 ## Credits:
 * [@0xSobky](https://twitter.com/0xSobky)
