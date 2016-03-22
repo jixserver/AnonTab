@@ -1,5 +1,5 @@
 # AnonTab
-let AnonTab = `${NoScript + HTTPSEverywhere + PrivateBrowsing + proxy}`;
+let AnonTab = ``` `${NoScript + HTTPSEverywhere + PrivateBrowsing + proxy}` ```;
 
 ## What does it do?
 
