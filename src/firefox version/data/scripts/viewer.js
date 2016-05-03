@@ -1,6 +1,11 @@
 // Document's current location
 var docHref = location.hash;
 
+/**
+ * Recieve data sent by other scripts.
+ * @param data {object}, a container object.
+ * @return void.
+ */
 function receive(data) {
     'use strict';
     var target, _target, styleEl;
@@ -9,8 +14,8 @@ function receive(data) {
     var dataVal = data.dataVal;
     /**
      * modify the innerHTML property of the body element.
-     * @param data {string}, a -markup?- string.
-     * @param reset {boolean}.
+     * @param data {string}, a markup string.
+     * @param reset {boolean}, a switch to reset the body.
      * @return void.
      */
     var setBody = function(dataVal, reset) {
