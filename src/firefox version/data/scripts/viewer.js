@@ -66,7 +66,7 @@ function receive(data) {
                 var index = childElms.length;
                 while (index--) {
                     el = childElms[index];
-                    if (el.hasAttribute('name') && el.value !== 'undefined') {
+                    if (el.hasAttribute('name') && el.value) {
                         params.push(el.name + '=' + el.value);
                     } else if(el.children) {
                         queryBuild(el);
